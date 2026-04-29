@@ -1,0 +1,21 @@
+
+STREAMLIT CLOUD - ASENNUSOHJEET
+
+VAIHE 1: GITHUB-REPOSITORION LUOMINEN
+1. Avaa GitHub (https://github.com)
+2. Kirjaudu sisään Google-tilillä
+3. Luo uusi repositorio: "risk-assessment-app"
+4. Lataa tiedostot repositorioon
+
+VAIHE 2: STREAMLIT CLOUD -KÄYTTÖÖNOTTO
+1. Avaa Streamlit Cloud (https://streamlit.io/cloud)
+2. Kirjaudu GitHub-tilillä
+3. Luo uusi sovellus
+4. Valitse repositorio ja streamlit_app.py
+5. Klikkaa "Deploy"
+
+VAIHE 3: SOVELLUKSEN KÄYTTÖ
+1. Valitse energialähde
+2. Valitse riskit
+3. Kommentoi riskejä
+4. Lataa Word-raportti
